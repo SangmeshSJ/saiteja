@@ -1,0 +1,296 @@
+{
+  "User": [
+    {
+      "firstName": "Sai",
+      "lastName": "Teja",
+      "phoneNumber": "9666988752",
+      "email": "saiteja31096@gmail.com",
+      "password": "saiteja123",
+      "id": 1
+    },
+    {
+      "firstName": "Sandesh B P",
+      "lastName": "Lotlikar",
+      "phoneNumber": "9481419215",
+      "email": "sandeshbplotlikar@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "firstName": "sangmesh",
+      "lastName": "sj",
+      "phoneNumber": "9481419215",
+      "email": "sangusj921@gmail.com",
+      "password": "1234",
+      "id": 3
+    }
+  ],
+  "Messages": [
+    {
+      "msg": "hhghgh",
+      "sender": 3,
+      "receiver": 1,
+      "TimeNdate": "2019-04-20T09:13:35.489Z",
+      "id": 19
+    },
+    {
+      "msg": "ghnfhn",
+      "sender": 3,
+      "receiver": 1,
+      "TimeNdate": "2019-04-20T09:15:36.432Z",
+      "id": 20
+    },
+    {
+      "msg": "ghnfhn",
+      "sender": 3,
+      "receiver": 1,
+      "TimeNdate": "2019-04-20T09:15:36.432Z",
+      "id": 21
+    },
+    {
+      "msg": "ghnfhn",
+      "sender": 3,
+      "receiver": 1,
+      "TimeNdate": "2019-04-20T09:15:36.432Z",
+      "id": 22
+    },
+    {
+      "msg": "mvnfgmnb",
+      "sender": 3,
+      "receiver": 1,
+      "TimeNdate": "2019-04-20T09:15:36.432Z",
+      "id": 23
+    },
+    {
+      "msg": "hnthn",
+      "sender": 3,
+      "receiver": 2,
+      "TimeNdate": "2019-04-20T09:42:06.842Z",
+      "id": 24
+    },
+    {
+      "msg": "gggg",
+      "sender": 1,
+      "receiver": 3,
+      "TimeNdate": "2019-04-20T09:44:03.183Z",
+      "id": 25
+    },
+    {
+      "msg": "ggg",
+      "sender": 1,
+      "receiver": 3,
+      "TimeNdate": "2019-04-20T09:51:15.780Z",
+      "id": 26
+    },
+    {
+      "msg": "fff",
+      "sender": 1,
+      "receiver": 3,
+      "TimeNdate": "2019-04-20T09:52:46.948Z",
+      "id": 27
+    },
+    {
+      "msg": "",
+      "sender": 1,
+      "receiver": 2,
+      "TimeNdate": "2019-04-20T09:53:38.402Z",
+      "id": 28
+    },
+    {
+      "msg": "fff",
+      "sender": 1,
+      "receiver": 2,
+      "TimeNdate": "2019-04-20T09:53:38.402Z",
+      "id": 29
+    },
+    {
+      "msg": "",
+      "sender": 1,
+      "receiver": 2,
+      "TimeNdate": "2019-04-20T09:53:52.759Z",
+      "id": 30
+    },
+    {
+      "msg": "nghnh",
+      "sender": 1,
+      "receiver": 3,
+      "TimeNdate": "2019-04-20T10:32:08.065Z",
+      "id": 31
+    },
+    {
+      "msg": "nhn",
+      "sender": 1,
+      "receiver": 3,
+      "TimeNdate": "2019-04-20T10:32:20.469Z",
+      "id": 32
+    },
+    {
+      "msg": "xx",
+      "sender": 1,
+      "receiver": 3,
+      "TimeNdate": "2019-04-20T10:47:44.229Z",
+      "id": 33
+    },
+    {
+      "msg": "gfgt",
+      "sender": 1,
+      "receiver": 3,
+      "TimeNdate": "2019-04-20T10:47:44.229Z",
+      "id": 34
+    },
+    {
+      "msg": "yyyy",
+      "sender": 1,
+      "receiver": 3,
+      "TimeNdate": "2019-04-20T10:50:28.452Z",
+      "id": 35
+    },
+    {
+      "msg": "yyyyvvvv",
+      "sender": 1,
+      "receiver": 3,
+      "TimeNdate": "2019-04-20T10:50:28.452Z",
+      "id": 36
+    },
+    {
+      "msg": "yhhh",
+      "sender": 1,
+      "receiver": 2,
+      "TimeNdate": "2019-04-20T10:50:28.452Z",
+      "id": 37
+    },
+    {
+      "msg": "",
+      "sender": 1,
+      "receiver": 2,
+      "TimeNdate": "2019-04-20T10:50:28.452Z",
+      "id": 38
+    },
+    {
+      "msg": "kl,.l.l.l.l",
+      "sender": 1,
+      "receiver": 3,
+      "TimeNdate": "2019-04-20T10:50:28.452Z",
+      "id": 39
+    },
+    {
+      "msg": "dbshbd",
+      "sender": 1,
+      "receiver": 2,
+      "TimeNdate": "2019-04-21T12:46:00.260Z",
+      "id": 40
+    },
+    {
+      "msg": "bdbjbd",
+      "sender": 1,
+      "receiver": 2,
+      "TimeNdate": "2019-04-21T12:48:02.880Z",
+      "id": 41
+    },
+    {
+      "msg": "cs cm",
+      "sender": 1,
+      "receiver": 2,
+      "TimeNdate": "2019-04-21T12:52:17.515Z",
+      "id": 42
+    },
+    {
+      "msg": "scbs",
+      "sender": 1,
+      "receiver": 3,
+      "TimeNdate": "2019-04-21T12:53:13.399Z",
+      "id": 43
+    },
+    {
+      "msg": "scbs",
+      "sender": 1,
+      "receiver": 3,
+      "TimeNdate": "2019-04-21T12:53:13.399Z",
+      "id": 44
+    },
+    {
+      "msg": "sc",
+      "sender": 1,
+      "receiver": 3,
+      "TimeNdate": "2019-04-21T12:53:13.399Z",
+      "id": 45
+    },
+    {
+      "msg": "scjdjd",
+      "sender": 1,
+      "receiver": 3,
+      "TimeNdate": "2019-04-21T12:53:13.399Z",
+      "id": 46
+    },
+    {
+      "msg": "scjdjd",
+      "sender": 1,
+      "receiver": 3,
+      "TimeNdate": "2019-04-21T12:53:13.399Z",
+      "id": 47
+    },
+    {
+      "msg": "scjdjdd",
+      "sender": 1,
+      "receiver": 3,
+      "TimeNdate": "2019-04-21T12:53:13.399Z",
+      "id": 48
+    },
+    {
+      "msg": " d ",
+      "sender": 1,
+      "receiver": 2,
+      "TimeNdate": "2019-04-21T12:57:05.356Z",
+      "id": 49
+    },
+    {
+      "msg": "d d ",
+      "sender": 1,
+      "receiver": 3,
+      "TimeNdate": "2019-04-21T12:57:50.433Z",
+      "id": 50
+    },
+    {
+      "msg": "bdbd",
+      "sender": 1,
+      "receiver": 2,
+      "TimeNdate": "2019-04-21T13:02:35.189Z",
+      "id": 51
+    },
+    {
+      "msg": "bbcncns",
+      "sender": 1,
+      "receiver": 3,
+      "TimeNdate": "2019-04-21T13:02:35.189Z",
+      "id": 52
+    },
+    {
+      "msg": "uhuhu",
+      "sender": 1,
+      "receiver": 2,
+      "TimeNdate": "2019-04-21T15:16:08.906Z",
+      "id": 53
+    },
+    {
+      "msg": "uhuhu",
+      "sender": 1,
+      "receiver": 2,
+      "TimeNdate": "2019-04-21T15:16:08.906Z",
+      "id": 54
+    },
+    {
+      "msg": "cnncms",
+      "sender": 2,
+      "receiver": 1,
+      "TimeNdate": "2019-04-21T15:17:53.620Z",
+      "id": 55
+    },
+    {
+      "msg": "cnncms",
+      "sender": 2,
+      "receiver": 1,
+      "TimeNdate": "2019-04-21T15:17:53.620Z",
+      "id": 56
+    }
+  ]
+}

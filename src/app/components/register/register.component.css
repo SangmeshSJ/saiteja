@@ -1,0 +1,15 @@
+body {
+    /* The image used */
+    background-image: url("../../../assets/loginbg.jfif");
+
+    background-color: #366b83; /* Used if the image is unavailable */
+  
+    height: 1000px;
+    /* You must set a specified height */
+  
+    background-position: center; /* Center the image */
+  
+    background-repeat: no-repeat; /* Do not repeat the image */
+  
+    background-size: cover; /*Resize the background image to cover the entire container */
+  }
